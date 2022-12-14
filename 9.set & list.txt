@@ -1,0 +1,10 @@
+Lists	                                            Sets
+1.Lists are Ordered.	                        Sets are Unordered.
+
+2.Lists are Mutable.	                        Sets are mutable but only stored immutable  elements                                                                                              elements.  
+                                                              
+3.Elements can be changed                Elements cannot be changed or replaced
+or replaced in Lists.
+
+4.Repeated elements are                    Repeated elements are not accepted
+accepted.                                           

@@ -1,0 +1,15 @@
+
+    List	                                                      Tuple
+1   List is mutable.	                                        Tuple is immutable.
+
+2	List iteration is slower and is                     Tuple iteration is faster. 
+     time consuming.
+
+3	List is useful for insertion                         Tuple is useful for readonly                  
+     and deletion operations.                              operations like  accessing elements
+                                                                                        
+4	List consumes more memory.	                     Tuples consumes less memory.
+
+5	List provides many in-built methods.	       Tuples have less in-built methods.
+
+6	List operations are more error prone.	       Tuples operations are safe

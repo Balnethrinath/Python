@@ -1,0 +1,14 @@
+compiler:
+1)Translate the entirety of the source code to machine code before execution
+2)Tend to have faster execution speeds compared to interpreted languages
+3)Require additional time before testing to complete the entire compilation step
+4)Generate binary code that is platform-dependent
+5)Are prevented from finishing when compilation errors occur
+
+
+Interpreter:
+1)Translate each command in source code to machine code, and then execute it before moving on to the next command
+2)Tend to have slower execution speeds than compiled languages because they translate the source code at run time
+3)Are often more flexible, with features like dynamic typing and smaller program size
+4)Generate binary code that is platform-independent because interpreters execute the program source code themselves
+5)Debug the source code at run time
